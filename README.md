@@ -8,7 +8,7 @@
 - My greatest strength is the ability to deconstruct a problem and find a solution 🔍🛠️.
 - With over 16 years of experience, I have been on a fantastic journey through various languages, frameworks, and projects 🌐🚀.
 - I love collaborating with others and creating valuable software that users enjoy using 💻❤️.
-- I am constantly seeking opportunities that challenge me to enhance my skills and knowledge, enabling me to build more valuable software 📚💪.
+- I am constantly seeking opportunities that challenge me to enhance my skills and knowledge, enabling me to build the future I want 📚💪.
 
 <h3 align="left">Tools:</h3>
 <p>
