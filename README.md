@@ -35,9 +35,9 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-<a href="https://twitter.com/th3mus1cman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="th3mus1cman" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/th3mus1cman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="th3mus1cman" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@thomas_brewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thomas_brewer" height="30" width="40" /></a>
+<a href="https://x.com/th3mus1cman" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/x.svg" alt="th3mus1cman" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/th3mus1cman" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/linkedin.svg" alt="th3mus1cman" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@thomas_brewer" target="blank"><img align="center" src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/youtube.svg" alt="thomas_brewer" height="30" width="40" /></a>
 </p>
 
 <!--
